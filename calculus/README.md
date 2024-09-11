@@ -81,8 +81,7 @@ $(∃ x \in A)P(x)$ - 'Во множестве A существует такой
 
 __Инверсия кванторов:__ <br/>
 
-$\overline{(\forall x \in A)P(x)} \equiv (∃ x \in A) \overline{P(x)}$ <br/>
-$\overline{(∃ x \in A)P(x)} \equiv (\forall x \in A) \overline{P(x)}$ <br/>
+<img src="https://i.imgur.com/PgGknIv.png"/>
 
 __Знаки логического вывода:__
 * ⇒ - Следовательно. По-сути, та же импликация, но в качестве операндов принимает не высказывания а предикаты, если я правильно её понял. <br/>
